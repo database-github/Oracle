@@ -1,0 +1,6 @@
+So we have  a website hosted in london and our user all over the world ,so when user is going to website they are directly going to london and pull there content down 
+so this all happen when we do not have CDN enabled.
+
+So we have  a website hosted in london and our user all over the world and our edge locations,now our 1st user will query to edge location and say i want to see a video xyz ,do you have the copy of the video if the edge location does not have copy of video then edge location will download the video to edge location and cached there and 
+it will be cached there 
+
